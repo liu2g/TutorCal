@@ -1,0 +1,1 @@
+This is the folder with log files, with the name as their execution date
