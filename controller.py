@@ -10,7 +10,7 @@ import datetime
 import os
 
 #Keep a good log file
-logname=os.getcwd()+'/'+str(datetime.date.today())+'.log' #current directory+scanning date+extension
+logname=os.getcwd()+'/logs/'+str(datetime.date.today())+'.log' #current directory+scanning date+extension
 logging.basicConfig(filename=logname,format='[%(asctime)s]%(levelname)s:%(message)s',level=logging.DEBUG)
 
 #read_appts requests and give list of dict of appoitments, make_events take that and push to google calandar
