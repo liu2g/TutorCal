@@ -1,0 +1,20 @@
+- Use following command to use CRON as editor
+crontab -e
+
+# This is a comment
+To the bottom of the page
+Each line you add here will be executed
+The format is:
+<Minutes> <Hours> <Day of month> <Month> <Weekday> <Command>
+To skip a parameter, add * as input.
+
+- OR use GUI to add schedule
+gnome-schedule
+
+- Note that the the command is executed in the /home directory, and all the output file will be default to be in /home
+
+- To schedule every N minutes, use <Minutes> as */2
+
+- Do not have to configure again after reboot
+
+- (not confirmed) If the schedule exist before reboot, it will run once after reboot regardless of time
