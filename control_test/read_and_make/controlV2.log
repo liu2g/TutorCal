@@ -1,0 +1,431 @@
+[2019-03-30 06:16:11,920]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 06:16:11,920]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 06:16:12,115]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 06:16:35,651]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 06:16:35,651]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 06:16:35,821]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 06:16:36,047]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]
+[2019-03-30 06:24:27,583]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 06:24:27,584]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 06:24:27,786]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 06:24:28,038]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]
+[2019-03-30 16:42:26,592]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:42:26,608]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:42:26,868]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:42:26,916]INFO:Refreshing due to a 401 (attempt 1/2)
+[2019-03-30 16:42:26,918]INFO:Refreshing access_token
+[2019-03-30 16:42:27,408]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-03-26T09:30:00] to [2019-03-26T10:30:00]
+[2019-03-30 16:42:27,411]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:42:27,412]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:42:27,585]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:42:27,810]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]
+[2019-03-30 16:42:27,813]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:42:27,814]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:42:27,993]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:42:28,241]INFO:Event created for [Jonathan Ketron] for course [Ordinary Differential Equations] from [2019-03-14T14:30:00] to [2019-03-14T15:00:00]
+[2019-03-30 16:42:28,244]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:42:28,245]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:42:28,415]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:42:28,612]INFO:Event created for [David Chaney] for course [College Physics I (Calculus-based)] from [2019-03-14T13:00:00] to [2019-03-14T14:30:00]
+[2019-03-30 16:42:28,615]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:42:28,616]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:42:28,799]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:42:29,027]INFO:Event created for [Brayden Rittner] for course [Multivariable Calculus] from [2019-03-08T12:30:00] to [2019-03-08T13:00:00]
+[2019-03-30 16:45:36,886]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:45:36,886]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:45:37,088]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:45:37,317]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-03-26T09:30:00] to [2019-03-26T10:30:00]
+[2019-03-30 16:45:37,320]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:45:37,321]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:45:37,507]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:45:37,752]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]
+[2019-03-30 16:52:42,652]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:52:42,652]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:52:42,853]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:52:43,101]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-03-26T09:30:00] to [2019-03-26T10:30:00]
+[2019-03-30 16:52:43,104]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:52:43,105]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-03-30 16:52:43,283]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-03-30 16:52:43,507]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]
+[2019-03-30 16:54:27,379]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:54:27,815]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-03-26T09:30:00] to [2019-03-26T10:30:00]
+[2019-03-30 16:54:27,818]WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "/home/liu/.local/lib/python3.6/site-packages/googleapiclient/discovery_cache/file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+[2019-03-30 16:54:28,357]INFO:Event created for [Todd Herron] for course [Semiconductor Physics for Engineers] from [2019-03-26T16:00:00] to [2019-03-26T17:00:00]

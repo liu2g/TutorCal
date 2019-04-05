@@ -1,0 +1,33 @@
+[2019-04-05 10:27:37,025]INFO:--------Scanning Period Starts--------
+[2019-04-05 10:27:37,026]INFO:--------Reading Emails--------
+[2019-04-05 10:27:39,823]INFO:Successfully fetched 9 emails
+[2019-04-05 10:27:39,861]INFO:9 appointment(s) scraped from 9 email(s) in this period
+[2019-04-05 10:27:39,861]INFO:--------Creating Events--------
+[2019-04-05 10:27:39,863]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:40,106]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:40,330]INFO:Event created for [Colin Richardson] for course [College Physics I (Calculus-based)] from [2019-04-04 14:00:00] to [2019-04-04 15:00:00]
+[2019-04-05 10:27:40,331]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:40,509]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:40,734]INFO:Event created for [Syed Ahsan Subzwari] for course [College Physics I (Calculus-based)] from [2019-04-03 17:00:00] to [2019-04-03 18:00:00]
+[2019-04-05 10:27:40,735]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:40,910]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:41,174]INFO:Event created for [Natalie Coughlin] for course [Calculus II] from [2019-04-05 12:30:00] to [2019-04-05 13:00:00]
+[2019-04-05 10:27:41,176]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:41,351]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:41,559]INFO:Event created for [Alexander Deyhle] for course [College Physics I (Calculus-based)] from [2019-04-02 17:00:00] to [2019-04-02 18:00:00]
+[2019-04-05 10:27:41,561]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:41,744]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:41,981]INFO:Event created for [Nate Gordon] for course [General Physics I (Algebra-based)] from [2019-04-04 10:00:00] to [2019-04-04 10:30:00]
+[2019-04-05 10:27:41,982]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:42,157]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:42,363]INFO:Event created for [Steven Pun] for course [General Physics I (Algebra-based)] from [2019-04-02 09:30:00] to [2019-04-02 10:00:00]
+[2019-04-05 10:27:42,364]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:42,551]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:42,783]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-04-02 16:00:00] to [2019-04-02 17:00:00]
+[2019-04-05 10:27:42,785]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:42,960]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:43,175]INFO:Event created for [Joshua Sutton] for course [Multivariable Calculus] from [2019-04-04 13:00:00] to [2019-04-04 14:00:00]
+[2019-04-05 10:27:43,176]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 10:27:43,357]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 10:27:43,562]INFO:Event created for [Brianna Taglieri] for course [College Physics I (Calculus-based)] from [2019-04-02 10:00:00] to [2019-04-02 10:30:00]
+[2019-04-05 10:27:43,563]INFO:--------Scanning Period Ends--------

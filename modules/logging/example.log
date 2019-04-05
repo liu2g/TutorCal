@@ -1,0 +1,18 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+2019-03-30 04:36:47,822 This message should go to the log file
+2019-03-30 04:36:47,822 So should this
+2019-03-30 04:36:47,823 And this, too
+[2019-03-30 04:37:51,394]DEBUG:This message should go to the log file
+[2019-03-30 04:37:51,394]INFO:So should this
+[2019-03-30 04:37:51,394]WARNING:And this, too
+2019-03-30 04:38:22,192|[DEBUG]This message should go to the log file
+2019-03-30 04:38:22,193|[INFO]So should this
+2019-03-30 04:38:22,193|[WARNING]And this, too
+[2019-03-30 04:39:06,250]DEBUG	This message should go to the log file
+[2019-03-30 04:39:06,250]INFO	So should this
+[2019-03-30 04:39:06,250]WARNING	And this, too
+[2019-03-30 04:39:23,585]DEBUG: This message should go to the log file
+[2019-03-30 04:39:23,585]INFO: So should this
+[2019-03-30 04:39:23,585]WARNING: And this, too
