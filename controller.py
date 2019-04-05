@@ -7,10 +7,12 @@ from email_read import *
 from google_cal import *
 import logging
 import datetime
-import os
+from os.path import dirname, realpath
 
 #Keep a good log file
-logname=os.getcwd()+'/logs/'+str(datetime.date.today())+'.log' #current directory+scanning date+extension
+filepath = realpath(__file__) #Includes controller.py at last
+current_dir = dirname(filepath) #Get rid of controller.py
+logname=current_dir+'/logs/'+str(datetime.date.today())+'.log' #current directory+scanning date+extension
 logging.basicConfig(filename=logname,format='[%(asctime)s]%(levelname)s:%(message)s',level=logging.DEBUG)
 
 #read_appts requests and give list of dict of appoitments, make_events take that and push to google calandar

@@ -10,6 +10,7 @@ import email
 import datetime
 import pandas
 import logging
+import sys
 
 def find_class(code):
 	df=pandas.read_csv('lookup_table.csv',header=None)
@@ -73,8 +74,11 @@ def read_appts(): #function that returns a list of email messages on new appoint
 			appt['course']=find_class(course_code)
 			apptl.append(appt)
 		except Exception as e:
-			logging.error('ERROR WHEN TRYING TO SCRAPE INFO FROM AN EMAIL WITH FOLLOWING CONTENT\n%sERROR MESSAGE FOLLOWS\n%s',tempstr,e)
+			exc_type, exc_obj, exc_tb = sys.exc_info()
+			logging.error('ERROR WHEN TRYING TO SCRAPE INFO FROM AN EMAIL WITH FOLLOWING CONTENT\n%sERROR MESSAGE AT LINE#%s FOLLOWS\n%s',tempstr,exc_tb.tb_lineno,e)
 		passedi+=1
 
 	logging.info('%i appointment(s) scraped from %i email(s) in this period',passedi,len(msgl))
 	return apptl
+
+print(read_appts())
