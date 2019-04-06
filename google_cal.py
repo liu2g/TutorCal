@@ -9,6 +9,7 @@ from oauth2client import tools
 from oauth2client import file
 
 import logging
+import sys
 
 try:
 	import argparse
@@ -69,7 +70,9 @@ def make_event(appt):
 				com_attempt += 1
 				continue
 			else:
-				logging.error('GOOGLE API (GET) FAILED AFTER 99 ATTEMPTS, ERROR FOLLOWS\n%s', e)
+				exc_type, exc_obj, exc_tb = sys.exc_info()
+				logging.error('GOOGLE API (GET) FAILED AFTER 99 ATTEMPTS, ERROR AT LINE#%s FOLLOWS\n%s',
+				              exc_tb.tb_lineno,e)
 				return
 		break
 
@@ -92,8 +95,9 @@ def make_event(appt):
 			},
 		}
 	except Exception as e:
-		logging.error('ERROR WHEN DUMPING TO GOOGLE EVENT CONFIG FOR FOLLOWING APPOINTMENT\n%s\nERROR FOLLOWS\n%s',
-		              str(appt),e)
+		exc_type, exc_obj, exc_tb = sys.exc_info()
+		logging.error('ERROR WHEN DUMPING TO GOOGLE EVENT CONFIG FOR FOLLOWING APPOINTMENT\n%s\nERROR AT LINE#%s FOLLOWS\n%s',
+		              str(appt),exc_tb.tb_lineno,e)
 
 	# The meta-structure ensures 99 retries to connect google api; after 99 retries throw error and just return nothing
 	com_attempt=0
@@ -105,7 +109,9 @@ def make_event(appt):
 				com_attempt += 1
 				continue
 			else:
-				logging.error('GOOGLE API (POST) FAILED AFTER 99 ATTEMPTS, ERROR FOLLOWS\n%s', e)
+				exc_type, exc_obj, exc_tb = sys.exc_info()
+				logging.error('GOOGLE API (POST) FAILED AFTER 99 ATTEMPTS, ERROR AT LINE#%s FOLLOWS\n%s',
+				              exc_tb.tb_lineno,e)
 				return
 		break
 

@@ -22,6 +22,18 @@ def find_class(code):
 	except ValueError:
 		return code
 
+def strip_topic(topic):
+	subjl=[]
+	codel=[]
+	is_letter_yet=False
+	for ch in topic:
+		if ch.isalpha():
+			is_letter_yet=True
+			subjl.append(ch)
+		if is_letter_yet and ch.isdigit():
+			codel.append(ch)
+	return ''.join(subjl)+''.join(codel)
+
 def read_appts(): #function that returns a list of email messages on new appointments
 	logging.info('--------Reading Emails--------')
 
@@ -68,9 +80,8 @@ def read_appts(): #function that returns a list of email messages on new appoint
 			durat=re.search('Duration: (.*)\r\n',tempstr).group(1) #0.5 hour(s)
 			durat=float(durat.split(' ')[0]) #0.5
 			appt['end']=appt['start']+datetime.timedelta(hours = durat)
-			topic=re.search('Topic: (.*) ',tempstr).group(1)
-			subj=re.search('[a-zA-Z]+', topic)[0]
-			course_code=topic[topic.find(subj):(topic.find(subj)+len(subj)+4)]
+			topic=re.search('Topic: (.*) ',tempstr).group(1).split(' ')[0]
+			course_code=strip_topic(topic)
 			appt['course']=find_class(course_code)
 			apptl.append(appt)
 		except Exception as e:
@@ -80,5 +91,3 @@ def read_appts(): #function that returns a list of email messages on new appoint
 
 	logging.info('%i appointment(s) scraped from %i email(s) in this period',passedi,len(msgl))
 	return apptl
-
-print(read_appts())

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="577335c6-d4f0-4c53-a4e3-da19afa4208b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/email_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google_cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/google_cal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2019-04-05.log" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,22 +19,7 @@
         <entry file="file://$PROJECT_DIR$/controller.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="e#101#125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google_cal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="90" column="47" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -66,10 +54,10 @@
         <option value="$PROJECT_DIR$/modules/google_cal/create_event_v1.1.py" />
         <option value="$PROJECT_DIR$/modules/getframe_test/test.py" />
         <option value="$PROJECT_DIR$/2019-03-30.log" />
-        <option value="$PROJECT_DIR$/email_read.py" />
         <option value="$PROJECT_DIR$/2019-04-05.log" />
-        <option value="$PROJECT_DIR$/google_cal.py" />
         <option value="$PROJECT_DIR$/controller.py" />
+        <option value="$PROJECT_DIR$/google_cal.py" />
+        <option value="$PROJECT_DIR$/email_read.py" />
       </list>
     </option>
   </component>
@@ -91,6 +79,11 @@
             <path>
               <item name="tutorcal" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorcal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorcal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorcal" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,27 +116,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.controller">
-    <configuration name="controlV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tutorcal" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_test/read_and_make" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_test/read_and_make/controlV2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorcal" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +150,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/google_cal/create_event_v1.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorcal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,10 +224,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.controller" />
+        <item itemvalue="Python.email_read" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.create_event_v1.1" />
         <item itemvalue="Python.read_v2.3" />
-        <item itemvalue="Python.controlV2" />
       </list>
     </recent_temporary>
   </component>
@@ -255,12 +248,12 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22781457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22781457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,14 +307,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/control_test/read_and_make/controlV2.log">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="-1087">
           <caret line="249" column="65" lean-forward="true" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="106" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -373,15 +366,15 @@
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
           <column index="0" width="100" />
           <column index="1" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -417,32 +410,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019-04-05.log" />
     <entry file="file://$PROJECT_DIR$/logs/2019-04-05.log" />
-    <entry file="file://$PROJECT_DIR$/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#101#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/google_cal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="90" column="47" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
+        <state relative-caret-position="1616">
+          <caret line="113" column="49" lean-forward="true" selection-start-line="113" selection-start-column="49" selection-end-line="113" selection-end-column="49" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#176#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
         </state>
       </provider>
     </entry>
