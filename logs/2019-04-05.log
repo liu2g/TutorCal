@@ -1,0 +1,110 @@
+[2019-04-05 21:00:04,983]INFO:########Scanning Period Starts########
+[2019-04-05 21:00:04,984]INFO:--------Reading Emails--------
+[2019-04-05 21:00:06,064]INFO:Successfully fetched 0 emails
+[2019-04-05 21:00:06,067]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 21:00:06,068]INFO:--------Creating Events--------
+[2019-04-05 21:00:06,068]INFO:No events to create in this period
+[2019-04-05 21:00:06,069]INFO:########Scanning Period Ends########
+[2019-04-05 21:10:05,363]INFO:########Scanning Period Starts########
+[2019-04-05 21:10:05,364]INFO:--------Reading Emails--------
+[2019-04-05 21:10:06,405]INFO:Successfully fetched 0 emails
+[2019-04-05 21:10:06,408]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 21:10:06,409]INFO:--------Creating Events--------
+[2019-04-05 21:10:06,410]INFO:No events to create in this period
+[2019-04-05 21:10:06,410]INFO:########Scanning Period Ends########
+[2019-04-05 21:20:04,802]INFO:########Scanning Period Starts########
+[2019-04-05 21:20:04,803]INFO:--------Reading Emails--------
+[2019-04-05 21:20:05,610]INFO:Successfully fetched 0 emails
+[2019-04-05 21:20:05,614]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 21:20:05,623]INFO:--------Creating Events--------
+[2019-04-05 21:20:05,624]INFO:No events to create in this period
+[2019-04-05 21:20:05,624]INFO:########Scanning Period Ends########
+[2019-04-05 21:30:04,987]INFO:########Scanning Period Starts########
+[2019-04-05 21:30:04,988]INFO:--------Reading Emails--------
+[2019-04-05 21:30:07,843]INFO:Successfully fetched 9 emails
+[2019-04-05 21:30:08,002]INFO:9 appointment(s) scraped from 9 email(s) in this period
+[2019-04-05 21:30:08,003]INFO:--------Creating Events--------
+[2019-04-05 21:30:08,011]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:08,327]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:08,562]INFO:Event created for [Colin Richardson] for course [College Physics I (Calculus-based)] from [2019-04-04 14:00:00] to [2019-04-04 15:00:00]
+[2019-04-05 21:30:08,564]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:08,913]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:09,164]INFO:Event created for [Syed Ahsan Subzwari] for course [College Physics I (Calculus-based)] from [2019-04-03 17:00:00] to [2019-04-03 18:00:00]
+[2019-04-05 21:30:09,166]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:09,878]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:10,131]INFO:Event created for [Natalie Coughlin] for course [Calculus II] from [2019-04-05 12:30:00] to [2019-04-05 13:00:00]
+[2019-04-05 21:30:10,133]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:10,441]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:10,654]INFO:Event created for [Alexander Deyhle] for course [College Physics I (Calculus-based)] from [2019-04-02 17:00:00] to [2019-04-02 18:00:00]
+[2019-04-05 21:30:10,657]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:10,995]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:11,235]INFO:Event created for [Nate Gordon] for course [General Physics I (Algebra-based)] from [2019-04-04 10:00:00] to [2019-04-04 10:30:00]
+[2019-04-05 21:30:11,237]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:11,668]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:11,900]INFO:Event created for [Steven Pun] for course [General Physics I (Algebra-based)] from [2019-04-02 09:30:00] to [2019-04-02 10:00:00]
+[2019-04-05 21:30:11,902]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:12,238]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:12,467]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-04-02 16:00:00] to [2019-04-02 17:00:00]
+[2019-04-05 21:30:12,471]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:12,862]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:13,089]INFO:Event created for [Joshua Sutton] for course [Multivariable Calculus] from [2019-04-04 13:00:00] to [2019-04-04 14:00:00]
+[2019-04-05 21:30:13,091]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-05 21:30:13,737]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-05 21:30:13,985]INFO:Event created for [Brianna Taglieri] for course [College Physics I (Calculus-based)] from [2019-04-02 10:00:00] to [2019-04-02 10:30:00]
+[2019-04-05 21:30:13,986]INFO:########Scanning Period Ends########
+[2019-04-05 21:40:05,324]INFO:########Scanning Period Starts########
+[2019-04-05 21:40:05,324]INFO:--------Reading Emails--------
+[2019-04-05 21:40:06,564]INFO:Successfully fetched 0 emails
+[2019-04-05 21:40:06,568]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 21:40:06,569]INFO:--------Creating Events--------
+[2019-04-05 21:40:06,569]INFO:No events to create in this period
+[2019-04-05 21:40:06,570]INFO:########Scanning Period Ends########
+[2019-04-05 21:50:04,868]INFO:########Scanning Period Starts########
+[2019-04-05 21:50:04,868]INFO:--------Reading Emails--------
+[2019-04-05 21:50:05,848]INFO:Successfully fetched 0 emails
+[2019-04-05 21:50:05,851]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 21:50:05,852]INFO:--------Creating Events--------
+[2019-04-05 21:50:05,852]INFO:No events to create in this period
+[2019-04-05 21:50:05,853]INFO:########Scanning Period Ends########
+[2019-04-05 22:00:05,202]INFO:########Scanning Period Starts########
+[2019-04-05 22:00:05,202]INFO:--------Reading Emails--------
+[2019-04-05 22:00:05,951]INFO:Successfully fetched 0 emails
+[2019-04-05 22:00:05,955]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:00:05,955]INFO:--------Creating Events--------
+[2019-04-05 22:00:05,956]INFO:No events to create in this period
+[2019-04-05 22:00:05,957]INFO:########Scanning Period Ends########
+[2019-04-05 22:10:05,291]INFO:########Scanning Period Starts########
+[2019-04-05 22:10:05,291]INFO:--------Reading Emails--------
+[2019-04-05 22:10:06,096]INFO:Successfully fetched 0 emails
+[2019-04-05 22:10:06,099]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:10:06,100]INFO:--------Creating Events--------
+[2019-04-05 22:10:06,101]INFO:No events to create in this period
+[2019-04-05 22:10:06,101]INFO:########Scanning Period Ends########
+[2019-04-05 22:20:05,475]INFO:########Scanning Period Starts########
+[2019-04-05 22:20:05,475]INFO:--------Reading Emails--------
+[2019-04-05 22:20:06,506]INFO:Successfully fetched 0 emails
+[2019-04-05 22:20:06,509]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:20:06,510]INFO:--------Creating Events--------
+[2019-04-05 22:20:06,511]INFO:No events to create in this period
+[2019-04-05 22:20:06,511]INFO:########Scanning Period Ends########
+[2019-04-05 22:30:04,853]INFO:########Scanning Period Starts########
+[2019-04-05 22:30:04,853]INFO:--------Reading Emails--------
+[2019-04-05 22:30:07,393]INFO:Successfully fetched 0 emails
+[2019-04-05 22:30:07,397]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:30:07,398]INFO:--------Creating Events--------
+[2019-04-05 22:30:07,398]INFO:No events to create in this period
+[2019-04-05 22:30:07,399]INFO:########Scanning Period Ends########
+[2019-04-05 22:40:05,749]INFO:########Scanning Period Starts########
+[2019-04-05 22:40:05,750]INFO:--------Reading Emails--------
+[2019-04-05 22:40:06,520]INFO:Successfully fetched 0 emails
+[2019-04-05 22:40:06,524]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:40:06,525]INFO:--------Creating Events--------
+[2019-04-05 22:40:06,525]INFO:No events to create in this period
+[2019-04-05 22:40:06,526]INFO:########Scanning Period Ends########
+[2019-04-05 22:50:04,870]INFO:########Scanning Period Starts########
+[2019-04-05 22:50:04,870]INFO:--------Reading Emails--------
+[2019-04-05 22:50:06,035]INFO:Successfully fetched 0 emails
+[2019-04-05 22:50:06,039]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-05 22:50:06,040]INFO:--------Creating Events--------
+[2019-04-05 22:50:06,041]INFO:No events to create in this period
+[2019-04-05 22:50:06,041]INFO:########Scanning Period Ends########

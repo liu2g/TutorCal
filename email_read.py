@@ -11,9 +11,12 @@ import datetime
 import pandas
 import logging
 import sys
+from os.path import dirname, realpath
 
 def find_class(code):
-	df=pandas.read_csv('lookup_table.csv',header=None)
+	filepath = realpath(__file__) #Includes controller.py at last
+	current_dir = dirname(filepath) #Get rid of controller.py
+	df=pandas.read_csv(current_dir+'/lookup_table.csv',header=None)
 	codel=df[0].tolist()
 	namel=df[1].tolist()
 	try:
@@ -22,7 +25,7 @@ def find_class(code):
 	except ValueError:
 		return code
 
-def strip_topic(topic):
+def strip_topic(topic): #The string will apprear in a format of 12XXXX#3456 7890, we need XXXX3456 part
 	subjl=[]
 	codel=[]
 	is_letter_yet=False
@@ -81,7 +84,7 @@ def read_appts(): #function that returns a list of email messages on new appoint
 			durat=float(durat.split(' ')[0]) #0.5
 			appt['end']=appt['start']+datetime.timedelta(hours = durat)
 			topic=re.search('Topic: (.*) ',tempstr).group(1).split(' ')[0]
-			course_code=strip_topic(topic)
+			course_code=strip_topic(topic) #instead of using re, use a custom function because RPi does not like it
 			appt['course']=find_class(course_code)
 			apptl.append(appt)
 		except Exception as e:
