@@ -7,7 +7,7 @@ import imaplib
 import re
 
 M = imaplib.IMAP4_SSL('imap.gmail.com')
-M.login('zgliu2z2@gmail.com', 'zhong2bing')
+M.login('zgliu2z2@gmail.com', '********') #Contact Liu for autorization to see the password
 stat,count=M.select('Inbox')
 stat,data=M.fetch(count[0],'(UID BODY[TEXT])')
 notif=data[0][1].decode("utf-8") 

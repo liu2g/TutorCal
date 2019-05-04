@@ -13,7 +13,7 @@ gnome-schedule
 
 - Note that the the command is executed in the /home directory, and all the output file will be default to be in /home
 
-- To schedule every N minutes, use <Minutes> as */2
+- To schedule every N minutes, use <Minutes> as */N
 
 - Do not have to configure again after reboot
 

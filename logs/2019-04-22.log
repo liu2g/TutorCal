@@ -1,0 +1,1033 @@
+[2019-04-22 00:00:05,093]INFO:########Scanning Period Starts########
+[2019-04-22 00:00:05,093]INFO:--------Reading Emails--------
+[2019-04-22 00:00:05,977]INFO:Successfully fetched 0 emails
+[2019-04-22 00:00:05,980]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:00:05,981]INFO:--------Creating Events--------
+[2019-04-22 00:00:05,982]INFO:No events to create in this period
+[2019-04-22 00:00:05,982]INFO:########Scanning Period Ends########
+[2019-04-22 00:10:05,348]INFO:########Scanning Period Starts########
+[2019-04-22 00:10:05,349]INFO:--------Reading Emails--------
+[2019-04-22 00:10:06,369]INFO:Successfully fetched 0 emails
+[2019-04-22 00:10:06,372]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:10:06,373]INFO:--------Creating Events--------
+[2019-04-22 00:10:06,374]INFO:No events to create in this period
+[2019-04-22 00:10:06,375]INFO:########Scanning Period Ends########
+[2019-04-22 00:20:05,835]INFO:########Scanning Period Starts########
+[2019-04-22 00:20:05,835]INFO:--------Reading Emails--------
+[2019-04-22 00:20:06,858]INFO:Successfully fetched 0 emails
+[2019-04-22 00:20:06,862]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:20:06,862]INFO:--------Creating Events--------
+[2019-04-22 00:20:06,863]INFO:No events to create in this period
+[2019-04-22 00:20:06,864]INFO:########Scanning Period Ends########
+[2019-04-22 00:30:05,281]INFO:########Scanning Period Starts########
+[2019-04-22 00:30:05,282]INFO:--------Reading Emails--------
+[2019-04-22 00:30:06,283]INFO:Successfully fetched 0 emails
+[2019-04-22 00:30:06,287]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:30:06,288]INFO:--------Creating Events--------
+[2019-04-22 00:30:06,288]INFO:No events to create in this period
+[2019-04-22 00:30:06,289]INFO:########Scanning Period Ends########
+[2019-04-22 00:40:05,633]INFO:########Scanning Period Starts########
+[2019-04-22 00:40:05,634]INFO:--------Reading Emails--------
+[2019-04-22 00:40:06,975]INFO:Successfully fetched 0 emails
+[2019-04-22 00:40:06,978]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:40:06,983]INFO:--------Creating Events--------
+[2019-04-22 00:40:06,984]INFO:No events to create in this period
+[2019-04-22 00:40:06,985]INFO:########Scanning Period Ends########
+[2019-04-22 00:50:05,303]INFO:########Scanning Period Starts########
+[2019-04-22 00:50:05,303]INFO:--------Reading Emails--------
+[2019-04-22 00:50:06,536]INFO:Successfully fetched 0 emails
+[2019-04-22 00:50:06,546]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 00:50:06,547]INFO:--------Creating Events--------
+[2019-04-22 00:50:06,547]INFO:No events to create in this period
+[2019-04-22 00:50:06,548]INFO:########Scanning Period Ends########
+[2019-04-22 01:00:04,930]INFO:########Scanning Period Starts########
+[2019-04-22 01:00:04,930]INFO:--------Reading Emails--------
+[2019-04-22 01:00:06,213]INFO:Successfully fetched 0 emails
+[2019-04-22 01:00:06,217]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:00:06,227]INFO:--------Creating Events--------
+[2019-04-22 01:00:06,227]INFO:No events to create in this period
+[2019-04-22 01:00:06,228]INFO:########Scanning Period Ends########
+[2019-04-22 01:10:05,553]INFO:########Scanning Period Starts########
+[2019-04-22 01:10:05,554]INFO:--------Reading Emails--------
+[2019-04-22 01:10:06,750]INFO:Successfully fetched 0 emails
+[2019-04-22 01:10:06,754]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:10:06,764]INFO:--------Creating Events--------
+[2019-04-22 01:10:06,765]INFO:No events to create in this period
+[2019-04-22 01:10:06,766]INFO:########Scanning Period Ends########
+[2019-04-22 01:20:05,198]INFO:########Scanning Period Starts########
+[2019-04-22 01:20:05,198]INFO:--------Reading Emails--------
+[2019-04-22 01:20:06,488]INFO:Successfully fetched 0 emails
+[2019-04-22 01:20:06,497]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:20:06,498]INFO:--------Creating Events--------
+[2019-04-22 01:20:06,498]INFO:No events to create in this period
+[2019-04-22 01:20:06,499]INFO:########Scanning Period Ends########
+[2019-04-22 01:30:04,864]INFO:########Scanning Period Starts########
+[2019-04-22 01:30:04,864]INFO:--------Reading Emails--------
+[2019-04-22 01:30:06,095]INFO:Successfully fetched 0 emails
+[2019-04-22 01:30:06,098]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:30:06,108]INFO:--------Creating Events--------
+[2019-04-22 01:30:06,109]INFO:No events to create in this period
+[2019-04-22 01:30:06,110]INFO:########Scanning Period Ends########
+[2019-04-22 01:40:05,448]INFO:########Scanning Period Starts########
+[2019-04-22 01:40:05,449]INFO:--------Reading Emails--------
+[2019-04-22 01:40:06,774]INFO:Successfully fetched 0 emails
+[2019-04-22 01:40:06,778]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:40:06,783]INFO:--------Creating Events--------
+[2019-04-22 01:40:06,784]INFO:No events to create in this period
+[2019-04-22 01:40:06,785]INFO:########Scanning Period Ends########
+[2019-04-22 01:50:05,173]INFO:########Scanning Period Starts########
+[2019-04-22 01:50:05,174]INFO:--------Reading Emails--------
+[2019-04-22 01:50:06,088]INFO:Successfully fetched 0 emails
+[2019-04-22 01:50:06,091]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 01:50:06,092]INFO:--------Creating Events--------
+[2019-04-22 01:50:06,093]INFO:No events to create in this period
+[2019-04-22 01:50:06,093]INFO:########Scanning Period Ends########
+[2019-04-22 02:00:05,496]INFO:########Scanning Period Starts########
+[2019-04-22 02:00:05,496]INFO:--------Reading Emails--------
+[2019-04-22 02:00:06,406]INFO:Successfully fetched 0 emails
+[2019-04-22 02:00:06,410]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:00:06,411]INFO:--------Creating Events--------
+[2019-04-22 02:00:06,411]INFO:No events to create in this period
+[2019-04-22 02:00:06,412]INFO:########Scanning Period Ends########
+[2019-04-22 02:10:05,806]INFO:########Scanning Period Starts########
+[2019-04-22 02:10:05,806]INFO:--------Reading Emails--------
+[2019-04-22 02:10:06,827]INFO:Successfully fetched 0 emails
+[2019-04-22 02:10:06,831]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:10:06,832]INFO:--------Creating Events--------
+[2019-04-22 02:10:06,832]INFO:No events to create in this period
+[2019-04-22 02:10:06,833]INFO:########Scanning Period Ends########
+[2019-04-22 02:20:05,311]INFO:########Scanning Period Starts########
+[2019-04-22 02:20:05,312]INFO:--------Reading Emails--------
+[2019-04-22 02:20:06,482]INFO:Successfully fetched 0 emails
+[2019-04-22 02:20:06,495]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:20:06,496]INFO:--------Creating Events--------
+[2019-04-22 02:20:06,497]INFO:No events to create in this period
+[2019-04-22 02:20:06,498]INFO:########Scanning Period Ends########
+[2019-04-22 02:30:05,808]INFO:########Scanning Period Starts########
+[2019-04-22 02:30:05,809]INFO:--------Reading Emails--------
+[2019-04-22 02:30:07,187]INFO:Successfully fetched 0 emails
+[2019-04-22 02:30:07,191]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:30:07,196]INFO:--------Creating Events--------
+[2019-04-22 02:30:07,197]INFO:No events to create in this period
+[2019-04-22 02:30:07,198]INFO:########Scanning Period Ends########
+[2019-04-22 02:40:05,583]INFO:########Scanning Period Starts########
+[2019-04-22 02:40:05,583]INFO:--------Reading Emails--------
+[2019-04-22 02:40:06,991]INFO:Successfully fetched 0 emails
+[2019-04-22 02:40:06,995]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:40:06,996]INFO:--------Creating Events--------
+[2019-04-22 02:40:06,997]INFO:No events to create in this period
+[2019-04-22 02:40:06,997]INFO:########Scanning Period Ends########
+[2019-04-22 02:50:05,345]INFO:########Scanning Period Starts########
+[2019-04-22 02:50:05,346]INFO:--------Reading Emails--------
+[2019-04-22 02:50:06,266]INFO:Successfully fetched 0 emails
+[2019-04-22 02:50:06,270]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 02:50:06,271]INFO:--------Creating Events--------
+[2019-04-22 02:50:06,271]INFO:No events to create in this period
+[2019-04-22 02:50:06,272]INFO:########Scanning Period Ends########
+[2019-04-22 03:00:05,629]INFO:########Scanning Period Starts########
+[2019-04-22 03:00:05,630]INFO:--------Reading Emails--------
+[2019-04-22 03:00:06,837]INFO:Successfully fetched 0 emails
+[2019-04-22 03:00:06,840]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:00:06,846]INFO:--------Creating Events--------
+[2019-04-22 03:00:06,847]INFO:No events to create in this period
+[2019-04-22 03:00:06,847]INFO:########Scanning Period Ends########
+[2019-04-22 03:10:05,177]INFO:########Scanning Period Starts########
+[2019-04-22 03:10:05,177]INFO:--------Reading Emails--------
+[2019-04-22 03:10:06,506]INFO:Successfully fetched 0 emails
+[2019-04-22 03:10:06,510]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:10:06,520]INFO:--------Creating Events--------
+[2019-04-22 03:10:06,520]INFO:No events to create in this period
+[2019-04-22 03:10:06,521]INFO:########Scanning Period Ends########
+[2019-04-22 03:20:04,900]INFO:########Scanning Period Starts########
+[2019-04-22 03:20:04,901]INFO:--------Reading Emails--------
+[2019-04-22 03:20:06,847]INFO:Successfully fetched 0 emails
+[2019-04-22 03:20:06,851]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:20:06,861]INFO:--------Creating Events--------
+[2019-04-22 03:20:06,861]INFO:No events to create in this period
+[2019-04-22 03:20:06,863]INFO:########Scanning Period Ends########
+[2019-04-22 03:30:05,172]INFO:########Scanning Period Starts########
+[2019-04-22 03:30:05,173]INFO:--------Reading Emails--------
+[2019-04-22 03:30:06,134]INFO:Successfully fetched 0 emails
+[2019-04-22 03:30:06,137]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:30:06,138]INFO:--------Creating Events--------
+[2019-04-22 03:30:06,138]INFO:No events to create in this period
+[2019-04-22 03:30:06,139]INFO:########Scanning Period Ends########
+[2019-04-22 03:40:05,518]INFO:########Scanning Period Starts########
+[2019-04-22 03:40:05,519]INFO:--------Reading Emails--------
+[2019-04-22 03:40:06,567]INFO:Successfully fetched 0 emails
+[2019-04-22 03:40:06,570]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:40:06,571]INFO:--------Creating Events--------
+[2019-04-22 03:40:06,572]INFO:No events to create in this period
+[2019-04-22 03:40:06,572]INFO:########Scanning Period Ends########
+[2019-04-22 03:50:04,916]INFO:########Scanning Period Starts########
+[2019-04-22 03:50:04,917]INFO:--------Reading Emails--------
+[2019-04-22 03:50:06,205]INFO:Successfully fetched 0 emails
+[2019-04-22 03:50:06,208]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 03:50:06,214]INFO:--------Creating Events--------
+[2019-04-22 03:50:06,215]INFO:No events to create in this period
+[2019-04-22 03:50:06,215]INFO:########Scanning Period Ends########
+[2019-04-22 04:00:05,605]INFO:########Scanning Period Starts########
+[2019-04-22 04:00:05,607]INFO:--------Reading Emails--------
+[2019-04-22 04:00:06,795]INFO:Successfully fetched 0 emails
+[2019-04-22 04:00:06,799]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:00:06,800]INFO:--------Creating Events--------
+[2019-04-22 04:00:06,801]INFO:No events to create in this period
+[2019-04-22 04:00:06,801]INFO:########Scanning Period Ends########
+[2019-04-22 04:10:05,135]INFO:########Scanning Period Starts########
+[2019-04-22 04:10:05,136]INFO:--------Reading Emails--------
+[2019-04-22 04:10:06,427]INFO:Successfully fetched 0 emails
+[2019-04-22 04:10:06,431]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:10:06,440]INFO:--------Creating Events--------
+[2019-04-22 04:10:06,441]INFO:No events to create in this period
+[2019-04-22 04:10:06,441]INFO:########Scanning Period Ends########
+[2019-04-22 04:20:04,886]INFO:########Scanning Period Starts########
+[2019-04-22 04:20:04,887]INFO:--------Reading Emails--------
+[2019-04-22 04:20:06,561]INFO:Successfully fetched 0 emails
+[2019-04-22 04:20:06,564]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:20:06,570]INFO:--------Creating Events--------
+[2019-04-22 04:20:06,570]INFO:No events to create in this period
+[2019-04-22 04:20:06,571]INFO:########Scanning Period Ends########
+[2019-04-22 04:30:04,938]INFO:########Scanning Period Starts########
+[2019-04-22 04:30:04,939]INFO:--------Reading Emails--------
+[2019-04-22 04:30:06,056]INFO:Successfully fetched 0 emails
+[2019-04-22 04:30:06,059]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:30:06,060]INFO:--------Creating Events--------
+[2019-04-22 04:30:06,060]INFO:No events to create in this period
+[2019-04-22 04:30:06,061]INFO:########Scanning Period Ends########
+[2019-04-22 04:40:05,443]INFO:########Scanning Period Starts########
+[2019-04-22 04:40:05,444]INFO:--------Reading Emails--------
+[2019-04-22 04:40:06,514]INFO:Successfully fetched 0 emails
+[2019-04-22 04:40:06,518]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:40:06,518]INFO:--------Creating Events--------
+[2019-04-22 04:40:06,519]INFO:No events to create in this period
+[2019-04-22 04:40:06,520]INFO:########Scanning Period Ends########
+[2019-04-22 04:50:04,929]INFO:########Scanning Period Starts########
+[2019-04-22 04:50:04,930]INFO:--------Reading Emails--------
+[2019-04-22 04:50:06,305]INFO:Successfully fetched 0 emails
+[2019-04-22 04:50:06,314]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 04:50:06,315]INFO:--------Creating Events--------
+[2019-04-22 04:50:06,316]INFO:No events to create in this period
+[2019-04-22 04:50:06,317]INFO:########Scanning Period Ends########
+[2019-04-22 05:00:05,694]INFO:########Scanning Period Starts########
+[2019-04-22 05:00:05,695]INFO:--------Reading Emails--------
+[2019-04-22 05:00:06,900]INFO:Successfully fetched 0 emails
+[2019-04-22 05:00:06,904]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:00:06,905]INFO:--------Creating Events--------
+[2019-04-22 05:00:06,905]INFO:No events to create in this period
+[2019-04-22 05:00:06,906]INFO:########Scanning Period Ends########
+[2019-04-22 05:10:05,288]INFO:########Scanning Period Starts########
+[2019-04-22 05:10:05,288]INFO:--------Reading Emails--------
+[2019-04-22 05:10:06,555]INFO:Successfully fetched 0 emails
+[2019-04-22 05:10:06,558]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:10:06,568]INFO:--------Creating Events--------
+[2019-04-22 05:10:06,569]INFO:No events to create in this period
+[2019-04-22 05:10:06,569]INFO:########Scanning Period Ends########
+[2019-04-22 05:20:05,046]INFO:########Scanning Period Starts########
+[2019-04-22 05:20:05,047]INFO:--------Reading Emails--------
+[2019-04-22 05:20:05,987]INFO:Successfully fetched 0 emails
+[2019-04-22 05:20:05,990]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:20:05,991]INFO:--------Creating Events--------
+[2019-04-22 05:20:05,992]INFO:No events to create in this period
+[2019-04-22 05:20:05,992]INFO:########Scanning Period Ends########
+[2019-04-22 05:30:05,362]INFO:########Scanning Period Starts########
+[2019-04-22 05:30:05,363]INFO:--------Reading Emails--------
+[2019-04-22 05:30:06,720]INFO:Successfully fetched 0 emails
+[2019-04-22 05:30:06,723]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:30:06,733]INFO:--------Creating Events--------
+[2019-04-22 05:30:06,734]INFO:No events to create in this period
+[2019-04-22 05:30:06,734]INFO:########Scanning Period Ends########
+[2019-04-22 05:40:05,120]INFO:########Scanning Period Starts########
+[2019-04-22 05:40:05,121]INFO:--------Reading Emails--------
+[2019-04-22 05:40:06,620]INFO:Successfully fetched 0 emails
+[2019-04-22 05:40:06,629]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:40:06,630]INFO:--------Creating Events--------
+[2019-04-22 05:40:06,631]INFO:No events to create in this period
+[2019-04-22 05:40:06,631]INFO:########Scanning Period Ends########
+[2019-04-22 05:50:04,992]INFO:########Scanning Period Starts########
+[2019-04-22 05:50:04,993]INFO:--------Reading Emails--------
+[2019-04-22 05:50:06,223]INFO:Successfully fetched 0 emails
+[2019-04-22 05:50:06,232]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 05:50:06,233]INFO:--------Creating Events--------
+[2019-04-22 05:50:06,234]INFO:No events to create in this period
+[2019-04-22 05:50:06,234]INFO:########Scanning Period Ends########
+[2019-04-22 06:00:05,605]INFO:########Scanning Period Starts########
+[2019-04-22 06:00:05,606]INFO:--------Reading Emails--------
+[2019-04-22 06:00:06,518]INFO:Successfully fetched 0 emails
+[2019-04-22 06:00:06,521]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:00:06,522]INFO:--------Creating Events--------
+[2019-04-22 06:00:06,523]INFO:No events to create in this period
+[2019-04-22 06:00:06,523]INFO:########Scanning Period Ends########
+[2019-04-22 06:10:04,865]INFO:########Scanning Period Starts########
+[2019-04-22 06:10:04,866]INFO:--------Reading Emails--------
+[2019-04-22 06:10:05,944]INFO:Successfully fetched 0 emails
+[2019-04-22 06:10:05,948]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:10:05,948]INFO:--------Creating Events--------
+[2019-04-22 06:10:05,949]INFO:No events to create in this period
+[2019-04-22 06:10:05,950]INFO:########Scanning Period Ends########
+[2019-04-22 06:20:05,394]INFO:########Scanning Period Starts########
+[2019-04-22 06:20:05,395]INFO:--------Reading Emails--------
+[2019-04-22 06:20:06,769]INFO:Successfully fetched 0 emails
+[2019-04-22 06:20:06,778]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:20:06,779]INFO:--------Creating Events--------
+[2019-04-22 06:20:06,780]INFO:No events to create in this period
+[2019-04-22 06:20:06,780]INFO:########Scanning Period Ends########
+[2019-04-22 06:30:05,175]INFO:########Scanning Period Starts########
+[2019-04-22 06:30:05,176]INFO:--------Reading Emails--------
+[2019-04-22 06:30:06,178]INFO:Successfully fetched 0 emails
+[2019-04-22 06:30:06,182]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:30:06,183]INFO:--------Creating Events--------
+[2019-04-22 06:30:06,183]INFO:No events to create in this period
+[2019-04-22 06:30:06,184]INFO:########Scanning Period Ends########
+[2019-04-22 06:40:05,520]INFO:########Scanning Period Starts########
+[2019-04-22 06:40:05,520]INFO:--------Reading Emails--------
+[2019-04-22 06:40:06,658]INFO:Successfully fetched 0 emails
+[2019-04-22 06:40:06,662]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:40:06,663]INFO:--------Creating Events--------
+[2019-04-22 06:40:06,663]INFO:No events to create in this period
+[2019-04-22 06:40:06,664]INFO:########Scanning Period Ends########
+[2019-04-22 06:50:05,043]INFO:########Scanning Period Starts########
+[2019-04-22 06:50:05,044]INFO:--------Reading Emails--------
+[2019-04-22 06:50:05,959]INFO:Successfully fetched 0 emails
+[2019-04-22 06:50:05,963]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 06:50:05,964]INFO:--------Creating Events--------
+[2019-04-22 06:50:05,964]INFO:No events to create in this period
+[2019-04-22 06:50:05,965]INFO:########Scanning Period Ends########
+[2019-04-22 07:00:05,326]INFO:########Scanning Period Starts########
+[2019-04-22 07:00:05,326]INFO:--------Reading Emails--------
+[2019-04-22 07:00:06,795]INFO:Successfully fetched 0 emails
+[2019-04-22 07:00:06,798]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:00:06,804]INFO:--------Creating Events--------
+[2019-04-22 07:00:06,804]INFO:No events to create in this period
+[2019-04-22 07:00:06,805]INFO:########Scanning Period Ends########
+[2019-04-22 07:10:05,194]INFO:########Scanning Period Starts########
+[2019-04-22 07:10:05,195]INFO:--------Reading Emails--------
+[2019-04-22 07:10:06,317]INFO:Successfully fetched 0 emails
+[2019-04-22 07:10:06,321]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:10:06,322]INFO:--------Creating Events--------
+[2019-04-22 07:10:06,322]INFO:No events to create in this period
+[2019-04-22 07:10:06,323]INFO:########Scanning Period Ends########
+[2019-04-22 07:20:05,711]INFO:########Scanning Period Starts########
+[2019-04-22 07:20:05,711]INFO:--------Reading Emails--------
+[2019-04-22 07:20:07,108]INFO:Successfully fetched 0 emails
+[2019-04-22 07:20:07,112]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:20:07,122]INFO:--------Creating Events--------
+[2019-04-22 07:20:07,122]INFO:No events to create in this period
+[2019-04-22 07:20:07,123]INFO:########Scanning Period Ends########
+[2019-04-22 07:30:05,469]INFO:########Scanning Period Starts########
+[2019-04-22 07:30:05,470]INFO:--------Reading Emails--------
+[2019-04-22 07:30:06,372]INFO:Successfully fetched 0 emails
+[2019-04-22 07:30:06,376]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:30:06,376]INFO:--------Creating Events--------
+[2019-04-22 07:30:06,377]INFO:No events to create in this period
+[2019-04-22 07:30:06,378]INFO:########Scanning Period Ends########
+[2019-04-22 07:40:05,776]INFO:########Scanning Period Starts########
+[2019-04-22 07:40:05,777]INFO:--------Reading Emails--------
+[2019-04-22 07:40:07,055]INFO:Successfully fetched 0 emails
+[2019-04-22 07:40:07,058]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:40:07,064]INFO:--------Creating Events--------
+[2019-04-22 07:40:07,064]INFO:No events to create in this period
+[2019-04-22 07:40:07,065]INFO:########Scanning Period Ends########
+[2019-04-22 07:50:05,426]INFO:########Scanning Period Starts########
+[2019-04-22 07:50:05,427]INFO:--------Reading Emails--------
+[2019-04-22 07:50:06,868]INFO:Successfully fetched 0 emails
+[2019-04-22 07:50:06,872]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 07:50:06,877]INFO:--------Creating Events--------
+[2019-04-22 07:50:06,878]INFO:No events to create in this period
+[2019-04-22 07:50:06,879]INFO:########Scanning Period Ends########
+[2019-04-22 08:00:05,236]INFO:########Scanning Period Starts########
+[2019-04-22 08:00:05,237]INFO:--------Reading Emails--------
+[2019-04-22 08:00:06,715]INFO:Successfully fetched 0 emails
+[2019-04-22 08:00:06,718]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 08:00:06,728]INFO:--------Creating Events--------
+[2019-04-22 08:00:06,729]INFO:No events to create in this period
+[2019-04-22 08:00:06,729]INFO:########Scanning Period Ends########
+[2019-04-22 08:10:05,107]INFO:########Scanning Period Starts########
+[2019-04-22 08:10:05,108]INFO:--------Reading Emails--------
+[2019-04-22 08:10:07,015]INFO:Successfully fetched 1 emails
+[2019-04-22 08:10:07,069]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 08:10:07,070]INFO:--------Creating Events--------
+[2019-04-22 08:10:07,084]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 08:10:07,508]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 08:10:07,565]INFO:Refreshing due to a 401 (attempt 1/2)
+[2019-04-22 08:10:07,567]INFO:Refreshing access_token
+[2019-04-22 08:10:08,135]INFO:Event created for [Steven Pun] for course [General Physics I (Algebra-based)] from [2019-04-23 10:00:00] to [2019-04-23 10:30:00]
+[2019-04-22 08:10:08,136]INFO:########Scanning Period Ends########
+[2019-04-22 08:20:05,521]INFO:########Scanning Period Starts########
+[2019-04-22 08:20:05,522]INFO:--------Reading Emails--------
+[2019-04-22 08:20:06,532]INFO:Successfully fetched 0 emails
+[2019-04-22 08:20:06,536]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 08:20:06,536]INFO:--------Creating Events--------
+[2019-04-22 08:20:06,537]INFO:No events to create in this period
+[2019-04-22 08:20:06,538]INFO:########Scanning Period Ends########
+[2019-04-22 08:30:04,932]INFO:########Scanning Period Starts########
+[2019-04-22 08:30:04,933]INFO:--------Reading Emails--------
+[2019-04-22 08:30:06,042]INFO:Successfully fetched 0 emails
+[2019-04-22 08:30:06,046]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 08:30:06,046]INFO:--------Creating Events--------
+[2019-04-22 08:30:06,047]INFO:No events to create in this period
+[2019-04-22 08:30:06,048]INFO:########Scanning Period Ends########
+[2019-04-22 08:40:05,453]INFO:########Scanning Period Starts########
+[2019-04-22 08:40:05,453]INFO:--------Reading Emails--------
+[2019-04-22 08:40:06,891]INFO:Successfully fetched 0 emails
+[2019-04-22 08:40:06,905]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 08:40:06,906]INFO:--------Creating Events--------
+[2019-04-22 08:40:06,907]INFO:No events to create in this period
+[2019-04-22 08:40:06,907]INFO:########Scanning Period Ends########
+[2019-04-22 08:50:05,238]INFO:########Scanning Period Starts########
+[2019-04-22 08:50:05,238]INFO:--------Reading Emails--------
+[2019-04-22 08:50:06,271]INFO:Successfully fetched 0 emails
+[2019-04-22 08:50:06,275]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 08:50:06,276]INFO:--------Creating Events--------
+[2019-04-22 08:50:06,276]INFO:No events to create in this period
+[2019-04-22 08:50:06,277]INFO:########Scanning Period Ends########
+[2019-04-22 09:00:05,629]INFO:########Scanning Period Starts########
+[2019-04-22 09:00:05,630]INFO:--------Reading Emails--------
+[2019-04-22 09:00:06,729]INFO:Successfully fetched 0 emails
+[2019-04-22 09:00:06,733]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:00:06,734]INFO:--------Creating Events--------
+[2019-04-22 09:00:06,734]INFO:No events to create in this period
+[2019-04-22 09:00:06,735]INFO:########Scanning Period Ends########
+[2019-04-22 09:10:05,152]INFO:########Scanning Period Starts########
+[2019-04-22 09:10:05,153]INFO:--------Reading Emails--------
+[2019-04-22 09:10:06,142]INFO:Successfully fetched 0 emails
+[2019-04-22 09:10:06,145]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:10:06,146]INFO:--------Creating Events--------
+[2019-04-22 09:10:06,147]INFO:No events to create in this period
+[2019-04-22 09:10:06,148]INFO:########Scanning Period Ends########
+[2019-04-22 09:20:05,545]INFO:########Scanning Period Starts########
+[2019-04-22 09:20:05,545]INFO:--------Reading Emails--------
+[2019-04-22 09:20:06,806]INFO:Successfully fetched 0 emails
+[2019-04-22 09:20:06,809]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:20:06,819]INFO:--------Creating Events--------
+[2019-04-22 09:20:06,820]INFO:No events to create in this period
+[2019-04-22 09:20:06,820]INFO:########Scanning Period Ends########
+[2019-04-22 09:30:05,149]INFO:########Scanning Period Starts########
+[2019-04-22 09:30:05,149]INFO:--------Reading Emails--------
+[2019-04-22 09:30:06,143]INFO:Successfully fetched 0 emails
+[2019-04-22 09:30:06,147]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:30:06,148]INFO:--------Creating Events--------
+[2019-04-22 09:30:06,148]INFO:No events to create in this period
+[2019-04-22 09:30:06,149]INFO:########Scanning Period Ends########
+[2019-04-22 09:40:05,449]INFO:########Scanning Period Starts########
+[2019-04-22 09:40:05,450]INFO:--------Reading Emails--------
+[2019-04-22 09:40:06,433]INFO:Successfully fetched 0 emails
+[2019-04-22 09:40:06,436]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:40:06,437]INFO:--------Creating Events--------
+[2019-04-22 09:40:06,438]INFO:No events to create in this period
+[2019-04-22 09:40:06,438]INFO:########Scanning Period Ends########
+[2019-04-22 09:50:05,785]INFO:########Scanning Period Starts########
+[2019-04-22 09:50:05,785]INFO:--------Reading Emails--------
+[2019-04-22 09:50:07,013]INFO:Successfully fetched 0 emails
+[2019-04-22 09:50:07,017]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 09:50:07,022]INFO:--------Creating Events--------
+[2019-04-22 09:50:07,023]INFO:No events to create in this period
+[2019-04-22 09:50:07,024]INFO:########Scanning Period Ends########
+[2019-04-22 10:00:05,339]INFO:########Scanning Period Starts########
+[2019-04-22 10:00:05,339]INFO:--------Reading Emails--------
+[2019-04-22 10:00:06,521]INFO:Successfully fetched 0 emails
+[2019-04-22 10:00:06,525]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 10:00:06,530]INFO:--------Creating Events--------
+[2019-04-22 10:00:06,531]INFO:No events to create in this period
+[2019-04-22 10:00:06,531]INFO:########Scanning Period Ends########
+[2019-04-22 10:10:04,943]INFO:########Scanning Period Starts########
+[2019-04-22 10:10:04,944]INFO:--------Reading Emails--------
+[2019-04-22 10:10:05,920]INFO:Successfully fetched 0 emails
+[2019-04-22 10:10:05,924]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 10:10:05,925]INFO:--------Creating Events--------
+[2019-04-22 10:10:05,926]INFO:No events to create in this period
+[2019-04-22 10:10:05,926]INFO:########Scanning Period Ends########
+[2019-04-22 10:20:05,373]INFO:########Scanning Period Starts########
+[2019-04-22 10:20:05,374]INFO:--------Reading Emails--------
+[2019-04-22 10:20:06,769]INFO:Successfully fetched 1 emails
+[2019-04-22 10:20:06,823]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 10:20:06,825]INFO:--------Creating Events--------
+[2019-04-22 10:20:06,839]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 10:20:07,198]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 10:20:07,248]INFO:Refreshing due to a 401 (attempt 1/2)
+[2019-04-22 10:20:07,250]INFO:Refreshing access_token
+[2019-04-22 10:20:07,821]INFO:Event created for [Emma Jacobs] for course [General Physics I (Algebra-based)] from [2019-04-26 12:30:00] to [2019-04-26 13:00:00]
+[2019-04-22 10:20:07,822]INFO:########Scanning Period Ends########
+[2019-04-22 10:30:05,202]INFO:########Scanning Period Starts########
+[2019-04-22 10:30:05,202]INFO:--------Reading Emails--------
+[2019-04-22 10:30:06,333]INFO:Successfully fetched 0 emails
+[2019-04-22 10:30:06,336]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 10:30:06,337]INFO:--------Creating Events--------
+[2019-04-22 10:30:06,338]INFO:No events to create in this period
+[2019-04-22 10:30:06,338]INFO:########Scanning Period Ends########
+[2019-04-22 10:40:05,751]INFO:########Scanning Period Starts########
+[2019-04-22 10:40:05,752]INFO:--------Reading Emails--------
+[2019-04-22 10:40:06,905]INFO:Successfully fetched 0 emails
+[2019-04-22 10:40:06,919]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 10:40:06,920]INFO:--------Creating Events--------
+[2019-04-22 10:40:06,921]INFO:No events to create in this period
+[2019-04-22 10:40:06,921]INFO:########Scanning Period Ends########
+[2019-04-22 10:50:05,305]INFO:########Scanning Period Starts########
+[2019-04-22 10:50:05,305]INFO:--------Reading Emails--------
+[2019-04-22 10:50:06,293]INFO:Successfully fetched 0 emails
+[2019-04-22 10:50:06,296]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 10:50:06,297]INFO:--------Creating Events--------
+[2019-04-22 10:50:06,298]INFO:No events to create in this period
+[2019-04-22 10:50:06,298]INFO:########Scanning Period Ends########
+[2019-04-22 11:00:05,691]INFO:########Scanning Period Starts########
+[2019-04-22 11:00:05,692]INFO:--------Reading Emails--------
+[2019-04-22 11:00:07,260]INFO:Successfully fetched 1 emails
+[2019-04-22 11:00:07,320]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 11:00:07,321]INFO:--------Creating Events--------
+[2019-04-22 11:00:07,336]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 11:00:07,719]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 11:00:08,077]INFO:Event created for [Spencer Wilburn] for course [College Physics I (Calculus-based)] from [2019-04-23 15:00:00] to [2019-04-23 16:00:00]
+[2019-04-22 11:00:08,078]INFO:########Scanning Period Ends########
+[2019-04-22 11:10:05,409]INFO:########Scanning Period Starts########
+[2019-04-22 11:10:05,409]INFO:--------Reading Emails--------
+[2019-04-22 11:10:07,114]INFO:Successfully fetched 1 emails
+[2019-04-22 11:10:07,167]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 11:10:07,168]INFO:--------Creating Events--------
+[2019-04-22 11:10:07,182]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 11:10:07,558]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 11:10:07,794]INFO:Event created for [Spencer Wilburn] for course [College Physics I (Calculus-based)] from [2019-04-23 17:00:00] to [2019-04-23 18:00:00]
+[2019-04-22 11:10:07,795]INFO:########Scanning Period Ends########
+[2019-04-22 11:20:05,272]INFO:########Scanning Period Starts########
+[2019-04-22 11:20:05,272]INFO:--------Reading Emails--------
+[2019-04-22 11:20:06,247]INFO:Successfully fetched 0 emails
+[2019-04-22 11:20:06,251]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 11:20:06,251]INFO:--------Creating Events--------
+[2019-04-22 11:20:06,252]INFO:No events to create in this period
+[2019-04-22 11:20:06,253]INFO:########Scanning Period Ends########
+[2019-04-22 11:30:05,592]INFO:########Scanning Period Starts########
+[2019-04-22 11:30:05,592]INFO:--------Reading Emails--------
+[2019-04-22 11:30:06,710]INFO:Successfully fetched 0 emails
+[2019-04-22 11:30:06,714]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 11:30:06,715]INFO:--------Creating Events--------
+[2019-04-22 11:30:06,716]INFO:No events to create in this period
+[2019-04-22 11:30:06,716]INFO:########Scanning Period Ends########
+[2019-04-22 11:40:05,033]INFO:########Scanning Period Starts########
+[2019-04-22 11:40:05,033]INFO:--------Reading Emails--------
+[2019-04-22 11:40:06,368]INFO:Successfully fetched 0 emails
+[2019-04-22 11:40:06,372]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 11:40:06,381]INFO:--------Creating Events--------
+[2019-04-22 11:40:06,382]INFO:No events to create in this period
+[2019-04-22 11:40:06,383]INFO:########Scanning Period Ends########
+[2019-04-22 11:50:05,798]INFO:########Scanning Period Starts########
+[2019-04-22 11:50:05,799]INFO:--------Reading Emails--------
+[2019-04-22 11:50:07,731]INFO:Successfully fetched 0 emails
+[2019-04-22 11:50:07,740]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 11:50:07,741]INFO:--------Creating Events--------
+[2019-04-22 11:50:07,742]INFO:No events to create in this period
+[2019-04-22 11:50:07,742]INFO:########Scanning Period Ends########
+[2019-04-22 12:00:05,081]INFO:########Scanning Period Starts########
+[2019-04-22 12:00:05,082]INFO:--------Reading Emails--------
+[2019-04-22 12:00:06,560]INFO:Successfully fetched 0 emails
+[2019-04-22 12:00:06,563]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:00:06,568]INFO:--------Creating Events--------
+[2019-04-22 12:00:06,569]INFO:No events to create in this period
+[2019-04-22 12:00:06,570]INFO:########Scanning Period Ends########
+[2019-04-22 12:10:04,932]INFO:########Scanning Period Starts########
+[2019-04-22 12:10:04,933]INFO:--------Reading Emails--------
+[2019-04-22 12:10:06,421]INFO:Successfully fetched 0 emails
+[2019-04-22 12:10:06,434]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:10:06,436]INFO:--------Creating Events--------
+[2019-04-22 12:10:06,436]INFO:No events to create in this period
+[2019-04-22 12:10:06,437]INFO:########Scanning Period Ends########
+[2019-04-22 12:20:04,824]INFO:########Scanning Period Starts########
+[2019-04-22 12:20:04,825]INFO:--------Reading Emails--------
+[2019-04-22 12:20:06,268]INFO:Successfully fetched 0 emails
+[2019-04-22 12:20:06,272]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:20:06,277]INFO:--------Creating Events--------
+[2019-04-22 12:20:06,278]INFO:No events to create in this period
+[2019-04-22 12:20:06,278]INFO:########Scanning Period Ends########
+[2019-04-22 12:30:05,681]INFO:########Scanning Period Starts########
+[2019-04-22 12:30:05,682]INFO:--------Reading Emails--------
+[2019-04-22 12:30:06,810]INFO:Successfully fetched 0 emails
+[2019-04-22 12:30:06,813]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:30:06,814]INFO:--------Creating Events--------
+[2019-04-22 12:30:06,815]INFO:No events to create in this period
+[2019-04-22 12:30:06,815]INFO:########Scanning Period Ends########
+[2019-04-22 12:40:05,207]INFO:########Scanning Period Starts########
+[2019-04-22 12:40:05,208]INFO:--------Reading Emails--------
+[2019-04-22 12:40:06,935]INFO:Successfully fetched 0 emails
+[2019-04-22 12:40:06,944]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:40:06,945]INFO:--------Creating Events--------
+[2019-04-22 12:40:06,946]INFO:No events to create in this period
+[2019-04-22 12:40:06,947]INFO:########Scanning Period Ends########
+[2019-04-22 12:50:05,313]INFO:########Scanning Period Starts########
+[2019-04-22 12:50:05,313]INFO:--------Reading Emails--------
+[2019-04-22 12:50:06,287]INFO:Successfully fetched 0 emails
+[2019-04-22 12:50:06,291]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 12:50:06,292]INFO:--------Creating Events--------
+[2019-04-22 12:50:06,292]INFO:No events to create in this period
+[2019-04-22 12:50:06,293]INFO:########Scanning Period Ends########
+[2019-04-22 13:00:05,674]INFO:########Scanning Period Starts########
+[2019-04-22 13:00:05,675]INFO:--------Reading Emails--------
+[2019-04-22 13:00:07,520]INFO:Successfully fetched 1 emails
+[2019-04-22 13:00:07,575]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 13:00:07,576]INFO:--------Creating Events--------
+[2019-04-22 13:00:07,590]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 13:00:07,977]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 13:00:08,042]INFO:Refreshing due to a 401 (attempt 1/2)
+[2019-04-22 13:00:08,044]INFO:Refreshing access_token
+[2019-04-22 13:00:08,618]INFO:Event created for [Justin Nordeman] for course [Calculus II] from [2019-04-23 16:00:00] to [2019-04-23 17:00:00]
+[2019-04-22 13:00:08,619]INFO:########Scanning Period Ends########
+[2019-04-22 13:10:05,036]INFO:########Scanning Period Starts########
+[2019-04-22 13:10:05,037]INFO:--------Reading Emails--------
+[2019-04-22 13:10:06,227]INFO:Successfully fetched 0 emails
+[2019-04-22 13:10:06,236]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 13:10:06,237]INFO:--------Creating Events--------
+[2019-04-22 13:10:06,238]INFO:No events to create in this period
+[2019-04-22 13:10:06,238]INFO:########Scanning Period Ends########
+[2019-04-22 13:20:05,667]INFO:########Scanning Period Starts########
+[2019-04-22 13:20:05,668]INFO:--------Reading Emails--------
+[2019-04-22 13:20:07,232]INFO:Successfully fetched 0 emails
+[2019-04-22 13:20:07,236]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 13:20:07,245]INFO:--------Creating Events--------
+[2019-04-22 13:20:07,246]INFO:No events to create in this period
+[2019-04-22 13:20:07,247]INFO:########Scanning Period Ends########
+[2019-04-22 13:30:05,636]INFO:########Scanning Period Starts########
+[2019-04-22 13:30:05,637]INFO:--------Reading Emails--------
+[2019-04-22 13:30:06,900]INFO:Successfully fetched 0 emails
+[2019-04-22 13:30:06,904]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 13:30:06,904]INFO:--------Creating Events--------
+[2019-04-22 13:30:06,905]INFO:No events to create in this period
+[2019-04-22 13:30:06,906]INFO:########Scanning Period Ends########
+[2019-04-22 13:40:05,232]INFO:########Scanning Period Starts########
+[2019-04-22 13:40:05,233]INFO:--------Reading Emails--------
+[2019-04-22 13:40:06,142]INFO:Successfully fetched 0 emails
+[2019-04-22 13:40:06,145]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 13:40:06,146]INFO:--------Creating Events--------
+[2019-04-22 13:40:06,147]INFO:No events to create in this period
+[2019-04-22 13:40:06,147]INFO:########Scanning Period Ends########
+[2019-04-22 13:50:05,475]INFO:########Scanning Period Starts########
+[2019-04-22 13:50:05,475]INFO:--------Reading Emails--------
+[2019-04-22 13:50:07,088]INFO:Successfully fetched 0 emails
+[2019-04-22 13:50:07,092]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 13:50:07,093]INFO:--------Creating Events--------
+[2019-04-22 13:50:07,094]INFO:No events to create in this period
+[2019-04-22 13:50:07,094]INFO:########Scanning Period Ends########
+[2019-04-22 14:00:05,475]INFO:########Scanning Period Starts########
+[2019-04-22 14:00:05,476]INFO:--------Reading Emails--------
+[2019-04-22 14:00:07,289]INFO:Successfully fetched 2 emails
+[2019-04-22 14:00:07,366]INFO:2 appointment(s) scraped from 2 email(s) in this period
+[2019-04-22 14:00:07,367]INFO:--------Creating Events--------
+[2019-04-22 14:00:07,381]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 14:00:07,703]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 14:00:07,957]INFO:Event created for [Chad Moore] for course [College Physics I (Calculus-based)] from [2019-04-25 13:00:00] to [2019-04-25 13:30:00]
+[2019-04-22 14:00:07,959]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 14:00:08,327]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 14:00:08,385]INFO:Refreshing due to a 401 (attempt 1/2)
+[2019-04-22 14:00:08,387]INFO:Refreshing access_token
+[2019-04-22 14:00:08,989]INFO:Event created for [Chad Moore] for course [College Physics I (Calculus-based)] from [2019-04-23 15:00:00] to [2019-04-23 15:30:00]
+[2019-04-22 14:00:08,989]INFO:########Scanning Period Ends########
+[2019-04-22 14:10:05,414]INFO:########Scanning Period Starts########
+[2019-04-22 14:10:05,415]INFO:--------Reading Emails--------
+[2019-04-22 14:10:06,703]INFO:Successfully fetched 1 emails
+[2019-04-22 14:10:06,756]INFO:1 appointment(s) scraped from 1 email(s) in this period
+[2019-04-22 14:10:06,757]INFO:--------Creating Events--------
+[2019-04-22 14:10:06,771]INFO:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest
+[2019-04-22 14:10:07,125]INFO:URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+[2019-04-22 14:10:07,371]INFO:Event created for [Atul Ganti] for course [College Physics I (Calculus-based)] from [2019-04-24 16:00:00] to [2019-04-24 17:00:00]
+[2019-04-22 14:10:07,371]INFO:########Scanning Period Ends########
+[2019-04-22 14:20:05,845]INFO:########Scanning Period Starts########
+[2019-04-22 14:20:05,846]INFO:--------Reading Emails--------
+[2019-04-22 14:20:06,992]INFO:Successfully fetched 0 emails
+[2019-04-22 14:20:06,996]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 14:20:07,005]INFO:--------Creating Events--------
+[2019-04-22 14:20:07,006]INFO:No events to create in this period
+[2019-04-22 14:20:07,006]INFO:########Scanning Period Ends########
+[2019-04-22 14:30:05,344]INFO:########Scanning Period Starts########
+[2019-04-22 14:30:05,345]INFO:--------Reading Emails--------
+[2019-04-22 14:30:06,613]INFO:Successfully fetched 0 emails
+[2019-04-22 14:30:06,617]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 14:30:06,617]INFO:--------Creating Events--------
+[2019-04-22 14:30:06,618]INFO:No events to create in this period
+[2019-04-22 14:30:06,619]INFO:########Scanning Period Ends########
+[2019-04-22 14:40:04,950]INFO:########Scanning Period Starts########
+[2019-04-22 14:40:04,951]INFO:--------Reading Emails--------
+[2019-04-22 14:40:06,084]INFO:Successfully fetched 0 emails
+[2019-04-22 14:40:06,088]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 14:40:06,089]INFO:--------Creating Events--------
+[2019-04-22 14:40:06,089]INFO:No events to create in this period
+[2019-04-22 14:40:06,090]INFO:########Scanning Period Ends########
+[2019-04-22 14:50:05,452]INFO:########Scanning Period Starts########
+[2019-04-22 14:50:05,453]INFO:--------Reading Emails--------
+[2019-04-22 14:50:06,641]INFO:Successfully fetched 0 emails
+[2019-04-22 14:50:06,645]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 14:50:06,654]INFO:--------Creating Events--------
+[2019-04-22 14:50:06,655]INFO:No events to create in this period
+[2019-04-22 14:50:06,656]INFO:########Scanning Period Ends########
+[2019-04-22 15:00:05,041]INFO:########Scanning Period Starts########
+[2019-04-22 15:00:05,042]INFO:--------Reading Emails--------
+[2019-04-22 15:00:06,458]INFO:Successfully fetched 0 emails
+[2019-04-22 15:00:06,467]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:00:06,468]INFO:--------Creating Events--------
+[2019-04-22 15:00:06,468]INFO:No events to create in this period
+[2019-04-22 15:00:06,469]INFO:########Scanning Period Ends########
+[2019-04-22 15:10:05,809]INFO:########Scanning Period Starts########
+[2019-04-22 15:10:05,809]INFO:--------Reading Emails--------
+[2019-04-22 15:10:07,242]INFO:Successfully fetched 0 emails
+[2019-04-22 15:10:07,246]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:10:07,255]INFO:--------Creating Events--------
+[2019-04-22 15:10:07,256]INFO:No events to create in this period
+[2019-04-22 15:10:07,256]INFO:########Scanning Period Ends########
+[2019-04-22 15:20:05,685]INFO:########Scanning Period Starts########
+[2019-04-22 15:20:05,686]INFO:--------Reading Emails--------
+[2019-04-22 15:20:07,426]INFO:Successfully fetched 0 emails
+[2019-04-22 15:20:07,439]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:20:07,441]INFO:--------Creating Events--------
+[2019-04-22 15:20:07,441]INFO:No events to create in this period
+[2019-04-22 15:20:07,442]INFO:########Scanning Period Ends########
+[2019-04-22 15:30:05,844]INFO:########Scanning Period Starts########
+[2019-04-22 15:30:05,845]INFO:--------Reading Emails--------
+[2019-04-22 15:30:06,828]INFO:Successfully fetched 0 emails
+[2019-04-22 15:30:06,832]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:30:06,832]INFO:--------Creating Events--------
+[2019-04-22 15:30:06,833]INFO:No events to create in this period
+[2019-04-22 15:30:06,834]INFO:########Scanning Period Ends########
+[2019-04-22 15:40:05,174]INFO:########Scanning Period Starts########
+[2019-04-22 15:40:05,175]INFO:--------Reading Emails--------
+[2019-04-22 15:40:06,304]INFO:Successfully fetched 0 emails
+[2019-04-22 15:40:06,307]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:40:06,308]INFO:--------Creating Events--------
+[2019-04-22 15:40:06,309]INFO:No events to create in this period
+[2019-04-22 15:40:06,309]INFO:########Scanning Period Ends########
+[2019-04-22 15:50:05,670]INFO:########Scanning Period Starts########
+[2019-04-22 15:50:05,670]INFO:--------Reading Emails--------
+[2019-04-22 15:50:07,286]INFO:Successfully fetched 0 emails
+[2019-04-22 15:50:07,295]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 15:50:07,296]INFO:--------Creating Events--------
+[2019-04-22 15:50:07,297]INFO:No events to create in this period
+[2019-04-22 15:50:07,297]INFO:########Scanning Period Ends########
+[2019-04-22 16:00:05,642]INFO:########Scanning Period Starts########
+[2019-04-22 16:00:05,643]INFO:--------Reading Emails--------
+[2019-04-22 16:00:06,841]INFO:Successfully fetched 0 emails
+[2019-04-22 16:00:06,854]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:00:06,855]INFO:--------Creating Events--------
+[2019-04-22 16:00:06,856]INFO:No events to create in this period
+[2019-04-22 16:00:06,857]INFO:########Scanning Period Ends########
+[2019-04-22 16:10:05,229]INFO:########Scanning Period Starts########
+[2019-04-22 16:10:05,230]INFO:--------Reading Emails--------
+[2019-04-22 16:10:06,494]INFO:Successfully fetched 0 emails
+[2019-04-22 16:10:06,498]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:10:06,503]INFO:--------Creating Events--------
+[2019-04-22 16:10:06,504]INFO:No events to create in this period
+[2019-04-22 16:10:06,505]INFO:########Scanning Period Ends########
+[2019-04-22 16:20:04,949]INFO:########Scanning Period Starts########
+[2019-04-22 16:20:04,950]INFO:--------Reading Emails--------
+[2019-04-22 16:20:06,330]INFO:Successfully fetched 0 emails
+[2019-04-22 16:20:06,334]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:20:06,344]INFO:--------Creating Events--------
+[2019-04-22 16:20:06,345]INFO:No events to create in this period
+[2019-04-22 16:20:06,345]INFO:########Scanning Period Ends########
+[2019-04-22 16:30:05,715]INFO:########Scanning Period Starts########
+[2019-04-22 16:30:05,716]INFO:--------Reading Emails--------
+[2019-04-22 16:30:07,268]INFO:Successfully fetched 0 emails
+[2019-04-22 16:30:07,272]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:30:07,277]INFO:--------Creating Events--------
+[2019-04-22 16:30:07,278]INFO:No events to create in this period
+[2019-04-22 16:30:07,278]INFO:########Scanning Period Ends########
+[2019-04-22 16:40:05,654]INFO:########Scanning Period Starts########
+[2019-04-22 16:40:05,655]INFO:--------Reading Emails--------
+[2019-04-22 16:40:06,930]INFO:Successfully fetched 0 emails
+[2019-04-22 16:40:06,933]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:40:06,943]INFO:--------Creating Events--------
+[2019-04-22 16:40:06,944]INFO:No events to create in this period
+[2019-04-22 16:40:06,944]INFO:########Scanning Period Ends########
+[2019-04-22 16:50:05,331]INFO:########Scanning Period Starts########
+[2019-04-22 16:50:05,332]INFO:--------Reading Emails--------
+[2019-04-22 16:50:07,549]INFO:Successfully fetched 0 emails
+[2019-04-22 16:50:07,552]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 16:50:07,553]INFO:--------Creating Events--------
+[2019-04-22 16:50:07,554]INFO:No events to create in this period
+[2019-04-22 16:50:07,554]INFO:########Scanning Period Ends########
+[2019-04-22 17:00:04,967]INFO:########Scanning Period Starts########
+[2019-04-22 17:00:04,967]INFO:--------Reading Emails--------
+[2019-04-22 17:00:06,595]INFO:Successfully fetched 0 emails
+[2019-04-22 17:00:06,608]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:00:06,609]INFO:--------Creating Events--------
+[2019-04-22 17:00:06,610]INFO:No events to create in this period
+[2019-04-22 17:00:06,610]INFO:########Scanning Period Ends########
+[2019-04-22 17:10:04,975]INFO:########Scanning Period Starts########
+[2019-04-22 17:10:04,976]INFO:--------Reading Emails--------
+[2019-04-22 17:10:05,908]INFO:Successfully fetched 0 emails
+[2019-04-22 17:10:05,912]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:10:05,913]INFO:--------Creating Events--------
+[2019-04-22 17:10:05,914]INFO:No events to create in this period
+[2019-04-22 17:10:05,914]INFO:########Scanning Period Ends########
+[2019-04-22 17:20:05,315]INFO:########Scanning Period Starts########
+[2019-04-22 17:20:05,315]INFO:--------Reading Emails--------
+[2019-04-22 17:20:06,474]INFO:Successfully fetched 0 emails
+[2019-04-22 17:20:06,478]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:20:06,478]INFO:--------Creating Events--------
+[2019-04-22 17:20:06,479]INFO:No events to create in this period
+[2019-04-22 17:20:06,480]INFO:########Scanning Period Ends########
+[2019-04-22 17:30:04,796]INFO:########Scanning Period Starts########
+[2019-04-22 17:30:04,797]INFO:--------Reading Emails--------
+[2019-04-22 17:30:05,871]INFO:Successfully fetched 0 emails
+[2019-04-22 17:30:05,875]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:30:05,875]INFO:--------Creating Events--------
+[2019-04-22 17:30:05,876]INFO:No events to create in this period
+[2019-04-22 17:30:05,877]INFO:########Scanning Period Ends########
+[2019-04-22 17:40:05,170]INFO:########Scanning Period Starts########
+[2019-04-22 17:40:05,171]INFO:--------Reading Emails--------
+[2019-04-22 17:40:06,758]INFO:Successfully fetched 0 emails
+[2019-04-22 17:40:06,762]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:40:06,763]INFO:--------Creating Events--------
+[2019-04-22 17:40:06,763]INFO:No events to create in this period
+[2019-04-22 17:40:06,764]INFO:########Scanning Period Ends########
+[2019-04-22 17:50:05,096]INFO:########Scanning Period Starts########
+[2019-04-22 17:50:05,096]INFO:--------Reading Emails--------
+[2019-04-22 17:50:06,351]INFO:Successfully fetched 0 emails
+[2019-04-22 17:50:06,355]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 17:50:06,365]INFO:--------Creating Events--------
+[2019-04-22 17:50:06,366]INFO:No events to create in this period
+[2019-04-22 17:50:06,366]INFO:########Scanning Period Ends########
+[2019-04-22 18:00:05,718]INFO:########Scanning Period Starts########
+[2019-04-22 18:00:05,718]INFO:--------Reading Emails--------
+[2019-04-22 18:00:07,277]INFO:Successfully fetched 0 emails
+[2019-04-22 18:00:07,281]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:00:07,286]INFO:--------Creating Events--------
+[2019-04-22 18:00:07,287]INFO:No events to create in this period
+[2019-04-22 18:00:07,288]INFO:########Scanning Period Ends########
+[2019-04-22 18:10:05,583]INFO:########Scanning Period Starts########
+[2019-04-22 18:10:05,583]INFO:--------Reading Emails--------
+[2019-04-22 18:10:06,627]INFO:Successfully fetched 0 emails
+[2019-04-22 18:10:06,631]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:10:06,631]INFO:--------Creating Events--------
+[2019-04-22 18:10:06,632]INFO:No events to create in this period
+[2019-04-22 18:10:06,633]INFO:########Scanning Period Ends########
+[2019-04-22 18:20:05,025]INFO:########Scanning Period Starts########
+[2019-04-22 18:20:05,026]INFO:--------Reading Emails--------
+[2019-04-22 18:20:06,280]INFO:Successfully fetched 0 emails
+[2019-04-22 18:20:06,284]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:20:06,289]INFO:--------Creating Events--------
+[2019-04-22 18:20:06,290]INFO:No events to create in this period
+[2019-04-22 18:20:06,290]INFO:########Scanning Period Ends########
+[2019-04-22 18:30:05,661]INFO:########Scanning Period Starts########
+[2019-04-22 18:30:05,662]INFO:--------Reading Emails--------
+[2019-04-22 18:30:07,199]INFO:Successfully fetched 0 emails
+[2019-04-22 18:30:07,202]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:30:07,208]INFO:--------Creating Events--------
+[2019-04-22 18:30:07,208]INFO:No events to create in this period
+[2019-04-22 18:30:07,209]INFO:########Scanning Period Ends########
+[2019-04-22 18:40:05,534]INFO:########Scanning Period Starts########
+[2019-04-22 18:40:05,534]INFO:--------Reading Emails--------
+[2019-04-22 18:40:06,863]INFO:Successfully fetched 0 emails
+[2019-04-22 18:40:06,866]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:40:06,876]INFO:--------Creating Events--------
+[2019-04-22 18:40:06,877]INFO:No events to create in this period
+[2019-04-22 18:40:06,877]INFO:########Scanning Period Ends########
+[2019-04-22 18:50:05,204]INFO:########Scanning Period Starts########
+[2019-04-22 18:50:05,205]INFO:--------Reading Emails--------
+[2019-04-22 18:50:06,297]INFO:Successfully fetched 0 emails
+[2019-04-22 18:50:06,300]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 18:50:06,301]INFO:--------Creating Events--------
+[2019-04-22 18:50:06,302]INFO:No events to create in this period
+[2019-04-22 18:50:06,302]INFO:########Scanning Period Ends########
+[2019-04-22 19:00:05,634]INFO:########Scanning Period Starts########
+[2019-04-22 19:00:05,635]INFO:--------Reading Emails--------
+[2019-04-22 19:00:06,991]INFO:Successfully fetched 0 emails
+[2019-04-22 19:00:06,995]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:00:07,004]INFO:--------Creating Events--------
+[2019-04-22 19:00:07,005]INFO:No events to create in this period
+[2019-04-22 19:00:07,006]INFO:########Scanning Period Ends########
+[2019-04-22 19:10:05,322]INFO:########Scanning Period Starts########
+[2019-04-22 19:10:05,322]INFO:--------Reading Emails--------
+[2019-04-22 19:10:06,540]INFO:Successfully fetched 0 emails
+[2019-04-22 19:10:06,544]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:10:06,554]INFO:--------Creating Events--------
+[2019-04-22 19:10:06,555]INFO:No events to create in this period
+[2019-04-22 19:10:06,555]INFO:########Scanning Period Ends########
+[2019-04-22 19:20:04,992]INFO:########Scanning Period Starts########
+[2019-04-22 19:20:04,993]INFO:--------Reading Emails--------
+[2019-04-22 19:20:06,177]INFO:Successfully fetched 0 emails
+[2019-04-22 19:20:06,180]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:20:06,190]INFO:--------Creating Events--------
+[2019-04-22 19:20:06,191]INFO:No events to create in this period
+[2019-04-22 19:20:06,191]INFO:########Scanning Period Ends########
+[2019-04-22 19:30:05,533]INFO:########Scanning Period Starts########
+[2019-04-22 19:30:05,534]INFO:--------Reading Emails--------
+[2019-04-22 19:30:07,221]INFO:Successfully fetched 0 emails
+[2019-04-22 19:30:07,224]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:30:07,225]INFO:--------Creating Events--------
+[2019-04-22 19:30:07,226]INFO:No events to create in this period
+[2019-04-22 19:30:07,226]INFO:########Scanning Period Ends########
+[2019-04-22 19:40:05,551]INFO:########Scanning Period Starts########
+[2019-04-22 19:40:05,551]INFO:--------Reading Emails--------
+[2019-04-22 19:40:07,654]INFO:Successfully fetched 0 emails
+[2019-04-22 19:40:07,658]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:40:07,659]INFO:--------Creating Events--------
+[2019-04-22 19:40:07,660]INFO:No events to create in this period
+[2019-04-22 19:40:07,660]INFO:########Scanning Period Ends########
+[2019-04-22 19:50:05,030]INFO:########Scanning Period Starts########
+[2019-04-22 19:50:05,031]INFO:--------Reading Emails--------
+[2019-04-22 19:50:06,613]INFO:Successfully fetched 0 emails
+[2019-04-22 19:50:06,617]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 19:50:06,622]INFO:--------Creating Events--------
+[2019-04-22 19:50:06,623]INFO:No events to create in this period
+[2019-04-22 19:50:06,623]INFO:########Scanning Period Ends########
+[2019-04-22 20:00:05,045]INFO:########Scanning Period Starts########
+[2019-04-22 20:00:05,046]INFO:--------Reading Emails--------
+[2019-04-22 20:00:06,461]INFO:Successfully fetched 0 emails
+[2019-04-22 20:00:06,464]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:00:06,474]INFO:--------Creating Events--------
+[2019-04-22 20:00:06,475]INFO:No events to create in this period
+[2019-04-22 20:00:06,476]INFO:########Scanning Period Ends########
+[2019-04-22 20:10:05,821]INFO:########Scanning Period Starts########
+[2019-04-22 20:10:05,822]INFO:--------Reading Emails--------
+[2019-04-22 20:10:07,332]INFO:Successfully fetched 0 emails
+[2019-04-22 20:10:07,336]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:10:07,346]INFO:--------Creating Events--------
+[2019-04-22 20:10:07,346]INFO:No events to create in this period
+[2019-04-22 20:10:07,347]INFO:########Scanning Period Ends########
+[2019-04-22 20:20:05,773]INFO:########Scanning Period Starts########
+[2019-04-22 20:20:05,773]INFO:--------Reading Emails--------
+[2019-04-22 20:20:06,886]INFO:Successfully fetched 0 emails
+[2019-04-22 20:20:06,889]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:20:06,890]INFO:--------Creating Events--------
+[2019-04-22 20:20:06,890]INFO:No events to create in this period
+[2019-04-22 20:20:06,891]INFO:########Scanning Period Ends########
+[2019-04-22 20:30:05,229]INFO:########Scanning Period Starts########
+[2019-04-22 20:30:05,229]INFO:--------Reading Emails--------
+[2019-04-22 20:30:06,225]INFO:Successfully fetched 0 emails
+[2019-04-22 20:30:06,229]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:30:06,229]INFO:--------Creating Events--------
+[2019-04-22 20:30:06,230]INFO:No events to create in this period
+[2019-04-22 20:30:06,231]INFO:########Scanning Period Ends########
+[2019-04-22 20:40:05,572]INFO:########Scanning Period Starts########
+[2019-04-22 20:40:05,573]INFO:--------Reading Emails--------
+[2019-04-22 20:40:06,646]INFO:Successfully fetched 0 emails
+[2019-04-22 20:40:06,649]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:40:06,650]INFO:--------Creating Events--------
+[2019-04-22 20:40:06,650]INFO:No events to create in this period
+[2019-04-22 20:40:06,651]INFO:########Scanning Period Ends########
+[2019-04-22 20:50:05,045]INFO:########Scanning Period Starts########
+[2019-04-22 20:50:05,046]INFO:--------Reading Emails--------
+[2019-04-22 20:50:06,069]INFO:Successfully fetched 0 emails
+[2019-04-22 20:50:06,072]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 20:50:06,073]INFO:--------Creating Events--------
+[2019-04-22 20:50:06,074]INFO:No events to create in this period
+[2019-04-22 20:50:06,075]INFO:########Scanning Period Ends########
+[2019-04-22 21:00:05,415]INFO:########Scanning Period Starts########
+[2019-04-22 21:00:05,416]INFO:--------Reading Emails--------
+[2019-04-22 21:00:06,794]INFO:Successfully fetched 0 emails
+[2019-04-22 21:00:06,798]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:00:06,807]INFO:--------Creating Events--------
+[2019-04-22 21:00:06,808]INFO:No events to create in this period
+[2019-04-22 21:00:06,809]INFO:########Scanning Period Ends########
+[2019-04-22 21:10:05,171]INFO:########Scanning Period Starts########
+[2019-04-22 21:10:05,171]INFO:--------Reading Emails--------
+[2019-04-22 21:10:06,420]INFO:Successfully fetched 0 emails
+[2019-04-22 21:10:06,424]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:10:06,429]INFO:--------Creating Events--------
+[2019-04-22 21:10:06,430]INFO:No events to create in this period
+[2019-04-22 21:10:06,430]INFO:########Scanning Period Ends########
+[2019-04-22 21:20:04,833]INFO:########Scanning Period Starts########
+[2019-04-22 21:20:04,834]INFO:--------Reading Emails--------
+[2019-04-22 21:20:06,113]INFO:Successfully fetched 0 emails
+[2019-04-22 21:20:06,117]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:20:06,127]INFO:--------Creating Events--------
+[2019-04-22 21:20:06,127]INFO:No events to create in this period
+[2019-04-22 21:20:06,128]INFO:########Scanning Period Ends########
+[2019-04-22 21:30:05,451]INFO:########Scanning Period Starts########
+[2019-04-22 21:30:05,451]INFO:--------Reading Emails--------
+[2019-04-22 21:30:06,659]INFO:Successfully fetched 0 emails
+[2019-04-22 21:30:06,663]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:30:06,673]INFO:--------Creating Events--------
+[2019-04-22 21:30:06,674]INFO:No events to create in this period
+[2019-04-22 21:30:06,674]INFO:########Scanning Period Ends########
+[2019-04-22 21:40:04,997]INFO:########Scanning Period Starts########
+[2019-04-22 21:40:04,997]INFO:--------Reading Emails--------
+[2019-04-22 21:40:06,246]INFO:Successfully fetched 0 emails
+[2019-04-22 21:40:06,250]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:40:06,255]INFO:--------Creating Events--------
+[2019-04-22 21:40:06,256]INFO:No events to create in this period
+[2019-04-22 21:40:06,257]INFO:########Scanning Period Ends########
+[2019-04-22 21:50:05,584]INFO:########Scanning Period Starts########
+[2019-04-22 21:50:05,586]INFO:--------Reading Emails--------
+[2019-04-22 21:50:06,995]INFO:Successfully fetched 0 emails
+[2019-04-22 21:50:06,999]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 21:50:06,999]INFO:--------Creating Events--------
+[2019-04-22 21:50:07,000]INFO:No events to create in this period
+[2019-04-22 21:50:07,001]INFO:########Scanning Period Ends########
+[2019-04-22 22:00:05,338]INFO:########Scanning Period Starts########
+[2019-04-22 22:00:05,339]INFO:--------Reading Emails--------
+[2019-04-22 22:00:06,531]INFO:Successfully fetched 0 emails
+[2019-04-22 22:00:06,535]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:00:06,540]INFO:--------Creating Events--------
+[2019-04-22 22:00:06,541]INFO:No events to create in this period
+[2019-04-22 22:00:06,542]INFO:########Scanning Period Ends########
+[2019-04-22 22:10:04,898]INFO:########Scanning Period Starts########
+[2019-04-22 22:10:04,899]INFO:--------Reading Emails--------
+[2019-04-22 22:10:06,024]INFO:Successfully fetched 0 emails
+[2019-04-22 22:10:06,028]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:10:06,028]INFO:--------Creating Events--------
+[2019-04-22 22:10:06,029]INFO:No events to create in this period
+[2019-04-22 22:10:06,030]INFO:########Scanning Period Ends########
+[2019-04-22 22:20:05,477]INFO:########Scanning Period Starts########
+[2019-04-22 22:20:05,478]INFO:--------Reading Emails--------
+[2019-04-22 22:20:07,110]INFO:Successfully fetched 0 emails
+[2019-04-22 22:20:07,119]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:20:07,121]INFO:--------Creating Events--------
+[2019-04-22 22:20:07,121]INFO:No events to create in this period
+[2019-04-22 22:20:07,122]INFO:########Scanning Period Ends########
+[2019-04-22 22:30:05,499]INFO:########Scanning Period Starts########
+[2019-04-22 22:30:05,499]INFO:--------Reading Emails--------
+[2019-04-22 22:30:07,010]INFO:Successfully fetched 0 emails
+[2019-04-22 22:30:07,013]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:30:07,023]INFO:--------Creating Events--------
+[2019-04-22 22:30:07,024]INFO:No events to create in this period
+[2019-04-22 22:30:07,024]INFO:########Scanning Period Ends########
+[2019-04-22 22:40:05,339]INFO:########Scanning Period Starts########
+[2019-04-22 22:40:05,339]INFO:--------Reading Emails--------
+[2019-04-22 22:40:06,748]INFO:Successfully fetched 0 emails
+[2019-04-22 22:40:06,752]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:40:06,762]INFO:--------Creating Events--------
+[2019-04-22 22:40:06,762]INFO:No events to create in this period
+[2019-04-22 22:40:06,763]INFO:########Scanning Period Ends########
+[2019-04-22 22:50:05,101]INFO:########Scanning Period Starts########
+[2019-04-22 22:50:05,102]INFO:--------Reading Emails--------
+[2019-04-22 22:50:06,750]INFO:Successfully fetched 0 emails
+[2019-04-22 22:50:06,753]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 22:50:06,763]INFO:--------Creating Events--------
+[2019-04-22 22:50:06,763]INFO:No events to create in this period
+[2019-04-22 22:50:06,764]INFO:########Scanning Period Ends########
+[2019-04-22 23:00:05,098]INFO:########Scanning Period Starts########
+[2019-04-22 23:00:05,098]INFO:--------Reading Emails--------
+[2019-04-22 23:00:06,204]INFO:Successfully fetched 0 emails
+[2019-04-22 23:00:06,208]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:00:06,208]INFO:--------Creating Events--------
+[2019-04-22 23:00:06,209]INFO:No events to create in this period
+[2019-04-22 23:00:06,209]INFO:########Scanning Period Ends########
+[2019-04-22 23:10:05,554]INFO:########Scanning Period Starts########
+[2019-04-22 23:10:05,554]INFO:--------Reading Emails--------
+[2019-04-22 23:10:07,042]INFO:Successfully fetched 0 emails
+[2019-04-22 23:10:07,046]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:10:07,046]INFO:--------Creating Events--------
+[2019-04-22 23:10:07,047]INFO:No events to create in this period
+[2019-04-22 23:10:07,048]INFO:########Scanning Period Ends########
+[2019-04-22 23:20:05,454]INFO:########Scanning Period Starts########
+[2019-04-22 23:20:05,455]INFO:--------Reading Emails--------
+[2019-04-22 23:20:06,499]INFO:Successfully fetched 0 emails
+[2019-04-22 23:20:06,502]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:20:06,503]INFO:--------Creating Events--------
+[2019-04-22 23:20:06,504]INFO:No events to create in this period
+[2019-04-22 23:20:06,504]INFO:########Scanning Period Ends########
+[2019-04-22 23:30:04,882]INFO:########Scanning Period Starts########
+[2019-04-22 23:30:04,883]INFO:--------Reading Emails--------
+[2019-04-22 23:30:06,295]INFO:Successfully fetched 0 emails
+[2019-04-22 23:30:06,298]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:30:06,304]INFO:--------Creating Events--------
+[2019-04-22 23:30:06,305]INFO:No events to create in this period
+[2019-04-22 23:30:06,305]INFO:########Scanning Period Ends########
+[2019-04-22 23:40:05,605]INFO:########Scanning Period Starts########
+[2019-04-22 23:40:05,606]INFO:--------Reading Emails--------
+[2019-04-22 23:40:06,786]INFO:Successfully fetched 0 emails
+[2019-04-22 23:40:06,789]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:40:06,790]INFO:--------Creating Events--------
+[2019-04-22 23:40:06,790]INFO:No events to create in this period
+[2019-04-22 23:40:06,791]INFO:########Scanning Period Ends########
+[2019-04-22 23:50:05,132]INFO:########Scanning Period Starts########
+[2019-04-22 23:50:05,133]INFO:--------Reading Emails--------
+[2019-04-22 23:50:06,015]INFO:Successfully fetched 0 emails
+[2019-04-22 23:50:06,018]INFO:0 appointment(s) scraped from 0 email(s) in this period
+[2019-04-22 23:50:06,019]INFO:--------Creating Events--------
+[2019-04-22 23:50:06,019]INFO:No events to create in this period
+[2019-04-22 23:50:06,020]INFO:########Scanning Period Ends########

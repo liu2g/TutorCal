@@ -27,7 +27,7 @@ def read_schedule(): #function that returns a list of email messages on new appo
 	while True:
 		try: 
 			M = imaplib.IMAP4_SSL('imap.gmail.com')
-			M.login('zgliu2z2@gmail.com', 'zhong2bing')
+			M.login('zgliu2z2@gmail.com', '********') #Contact Liu for autorization to see the password
 			M.select('Inbox')
 			# result,data = M.search(None, '(UNSEEN SUBJECT "Learning Commons")') #Email being fetched automatically marked as read
 			result,data = M.search(None, '(SUBJECT "Schedule Reminder")')  #In case I want to double check schedule
